@@ -39,9 +39,13 @@ java.nio.file.Path;
 ## PART 3 - Code Scanning and Interpretation
 * Look at the getHiddenSecrets method and identify the following parts:
     * What is the access modifer (public, private, protected)?
+    * The access modifier is public.
     * Is it a Class method or an object Instance method, how do you know?
+    * It is a Class method.
     * What is its return data-type?
+    * Its return data-type is void.
     * Does it require any parameters, and if so, how many and of what type?
+    * It requires a file type parameter. 
 * Scan line by line through the code and try to determine how it works?
     * What is familiar to you?
     * What is not familiar to you?
